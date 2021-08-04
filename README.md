@@ -15,3 +15,9 @@ Our webpage was desgined to be very simple and straight to the point using all t
 Our code here at Horiseon uses the latest semantic tags in order to give the browser a better understanding of the structure of our layout, as well as useful comments that help to provide content as to where you are in the code.
 
 ![HTML](./assets/images/html-readme.png)
+
+# Horiseon Web page
+
+Please give us a visit on our webpage below
+
+[Horiseon.io](https://dorvilsteven.github.io/code-refactor-StevenDorvil/)
